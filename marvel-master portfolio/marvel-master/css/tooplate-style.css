@@ -137,6 +137,15 @@ b, strong {
 .animated-item:nth-child(3n+3) {
   animation-delay: 4s;
 }
+.animated-item:nth-child(4n+4) {
+  animation-delay: 6s;
+}
+.animated-item:nth-child(5n+5) {
+  animation-delay: 8s;
+}
+.animated-item:nth-child(6n+6) {
+  animation-delay: 10s;
+}
 
 @keyframes BottomTotop {
   0% {
